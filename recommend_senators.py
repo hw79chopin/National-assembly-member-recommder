@@ -73,3 +73,5 @@ for item in bills_json:
         similarity[bills_json[item]['법안명']] = float(sim)
 similarity = {key: value for key, value in sorted(similarity.items(), key=lambda item: item[1], reverse=True)}
 rating = [key for key, value in sorted(similarity.items(), key=lambda item: item[1], reverse=True)]
+
+# 뒤에 아직 한참 남음
