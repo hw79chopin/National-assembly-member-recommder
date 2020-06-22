@@ -75,3 +75,4 @@ similarity = {key: value for key, value in sorted(similarity.items(), key=lambda
 rating = [key for key, value in sorted(similarity.items(), key=lambda item: item[1], reverse=True)]
 
 # 뒤에 아직 한참 남음
+# 이제 이 python 파일은 삭제될 것이여
