@@ -51,7 +51,7 @@
     - clustering 후 word cloud를 만들어서 국회의원들의 관심사 파악해보기
 
 ### t-sne
-![tsne](images/tsne.png)
+![tsne](images/tsne2.png)
 - 100차원 vector를 t-sne로 2차원으로 차원축소한 뒤 시각화한 결과는 다음과 같다.
 - [국회의원 네트워크 분석](https://github.com/hw79chopin/National-assembly-member-Network-anaylsis)과는 다르게 같은 당끼리 뭉쳐있는 경향이 없었다.
 - 물론 정의당 의원들은 왼쪽 하단에 뭉쳐있었다. 이는 정의당 의원들이 발의하는 법안의 성격이 서로 비슷함을 의미한다.
